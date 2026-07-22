@@ -1,0 +1,19 @@
+name: LS-ClickWarp
+version: '${version}'
+
+main: studio.lorian.clickwarp.ClickWarp
+api-version: '26.2'
+load: POSTWORLD
+
+authors: [ MATSharer ]
+
+commands:
+  clickwarp:
+    description: ClickWarp主命令
+    usage: /clickwarp <reload|set|unset|list>
+    permission: clickwarp.admin
+
+permissions:
+  clickwarp.admin:
+    description: ClickWarp权限管理
+    default: op
