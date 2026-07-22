@@ -10,7 +10,7 @@ authors: [ MATSharer ]
 commands:
   clickwarp:
     description: ClickWarp主命令
-    usage: /clickwarp <reload|set|unset|list>
+    usage: /clickwarp <reload|set|unset|delete|list>
     permission: clickwarp.admin
 
 permissions:
