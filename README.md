@@ -30,7 +30,7 @@
 ### 5. 删除绑定点（两种模式，核心功能）
 #### ① 批量删除：删除同一个Warp名称所有绑定方块
 /clickwarp delete w:<Warp 名称>
-示例 /clickwarp delete w:spawn
+- 示例 /clickwarp delete w:spawn
 #### ② 精准单个删除：只删除指定坐标方块绑定
 /clickwarp delete <世界名:X:Y:Z>
-示例 /clickwarp delete world:64:65:-20
+- 示例 /clickwarp delete world:64:65:-20
