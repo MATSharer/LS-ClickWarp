@@ -3,7 +3,7 @@
 
 ## 环境要求
 - Java 17+（推荐JDK25）
-- 服务端：Spigot / Paper / Purpur 1.16+ 全版本通用
+- 服务端：Paper 1.16+
 - 依赖：无任何第三方依赖，纯原生BukkitAPI
 
 ## 权限节点
