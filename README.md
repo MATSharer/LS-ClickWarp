@@ -1,4 +1,4 @@
-# ClickWarp
+# LS-ClickWarp
 基于方块右键点击触发Warp传送的Spigot/Paper Minecraft服务端插件，支持方块绑定、解绑、列表查看、两种模式删除绑定点，配置持久化存储在config.yml。
 
 ## 环境要求
