@@ -25,12 +25,12 @@
 
 ### 4. 查看所有已绑定点位 list
 /clickwarp list
-列表格式：`序号. Warp名 | 位于:世界:X:Y:Z`
+- 列表格式：`序号. Warp名 | 位于:世界:X:Y:Z`
 
 ### 5. 删除绑定点（两种模式，核心功能）
-####批量删除：删除同一个Warp名称所有绑定方块
+#### ① 批量删除：删除同一个Warp名称所有绑定方块
 /clickwarp delete w:<Warp 名称>
 示例 /clickwarp delete w:spawn
-####精准单个删除：只删除指定坐标方块绑定
+#### ② 精准单个删除：只删除指定坐标方块绑定
 /clickwarp delete <世界名:X:Y:Z>
 示例 /clickwarp delete world:64:65:-20
