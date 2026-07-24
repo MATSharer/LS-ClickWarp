@@ -34,3 +34,15 @@
 #### ② 精准单个删除：只删除指定坐标方块绑定
 /clickwarp delete <世界名:X:Y:Z>
 - 示例 /clickwarp delete world:64:65:-20
+
+## 配置文件说明
+配置文件路径：`plugins/LS-ClickWarp/config.yml`
+```yaml
+points:
+  world:64:65:-20:
+    world: world
+    x: 64
+    y: 65
+    z: -20
+    blockmat: STONE
+    warp: spawn
